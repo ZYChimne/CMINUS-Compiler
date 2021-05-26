@@ -14,4 +14,4 @@ make test3
 * WSL with Ubuntu 20.04.2 LTS 
 * Make 4.2.1
 * Gcc 9.3.0
-It requires a bit modification to work on MacOs/Linux.
+* It requires a bit modification to work on MacOs/Linux.
