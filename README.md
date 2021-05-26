@@ -1,5 +1,6 @@
 # CMINUS-Compiler
 ## Usage
+Run WSL in Windows.
 ```bash
 make
 make test1
