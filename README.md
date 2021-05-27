@@ -8,7 +8,7 @@ make test2
 make test3
 ```
 ## Environment
-* Windows 10 20H2
+* Windows 10 21H1
 * Bison 3.5.1
 * Flex 2.6.4
 * Vscode 1.56.2
